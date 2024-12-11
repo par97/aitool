@@ -1,0 +1,321 @@
+{
+    "font_size": 0.4,
+    "font_color": "#FFFFFF",
+    "background_alpha": 0.5,
+    "background_color": "#9C27B0",
+    "Stroke": "none",
+    "body": [
+        {
+            "from": 14.21,
+            "to": 17.41,
+            "location": 2,
+            "content": "The snow glows white on the mountain tonight\n皑皑白雪覆盖今夜的山"
+        },
+        {
+            "from": 17.41,
+            "to": 20.67,
+            "location": 2,
+            "content": "Not a footprint to be seen\n埋藏身后我的足迹"
+        },
+        {
+            "from": 21.25,
+            "to": 27.71,
+            "location": 2,
+            "content": "A kingdom of isolation and it looks like I'm the Queen\n在这孤独白色国度，我就像是那冰雪的女王"
+        },
+        {
+            "from": 28.61,
+            "to": 35.48,
+            "location": 2,
+            "content": "The wind is howling like this swirling storm inside\n狂风呼号，内心亦涌动不能平息"
+        },
+        {
+            "from": 35.84,
+            "to": 41.54,
+            "location": 2,
+            "content": "Couldn't keep it in, heaven knows I tried\n再无法藏匿，上天知道我多么努力"
+        },
+        {
+            "from": 42.69,
+            "to": 46.08,
+            "location": 2,
+            "content": "Don't let them in, don't let them see\n别让别人知道，别让别人看到"
+        },
+        {
+            "from": 46.14,
+            "to": 47.52,
+            "location": 2,
+            "content": "Be the good girl\n做个好姑娘"
+        },
+        {
+            "from": 47.52,
+            "to": 49.6,
+            "location": 2,
+            "content": "You always had to be\n你必须一直都是"
+        },
+        {
+            "from": 49.6,
+            "to": 51.2,
+            "location": 2,
+            "content": "Conceal, don't feel\n要隐藏，不要动真情"
+        },
+        {
+            "from": 51.26,
+            "to": 55.87,
+            "location": 2,
+            "content": "Don't let them know\n不要让别人知道"
+        },
+        {
+            "from": 55.87,
+            "to": 59.14,
+            "location": 2,
+            "content": "Well, now they know\n好吧，现在他们知道了"
+        },
+        {
+            "from": 59.14,
+            "to": 60.67,
+            "location": 2,
+            "content": "Let it go\n随他吧"
+        },
+        {
+            "from": 60.67,
+            "to": 62.78,
+            "location": 2,
+            "content": "Let it go\n随他吧"
+        },
+        {
+            "from": 62.85,
+            "to": 66.18,
+            "location": 2,
+            "content": "Can't hold it back anymore\n反正再也无法隐瞒"
+        },
+        {
+            "from": 66.18,
+            "to": 67.84,
+            "location": 2,
+            "content": "Let it go\n不管他"
+        },
+        {
+            "from": 67.84,
+            "to": 69.63,
+            "location": 2,
+            "content": "Let it go\n不害怕"
+        },
+        {
+            "from": 69.63,
+            "to": 73.41,
+            "location": 2,
+            "content": "Turn away and slam the door\n转过身 关上门"
+        },
+        {
+            "from": 73.8,
+            "to": 76.42,
+            "location": 2,
+            "content": "I don't care\n别人的话"
+        },
+        {
+            "from": 76.42,
+            "to": 79.87,
+            "location": 2,
+            "content": "What they're going to say\n何必在乎它"
+        },
+        {
+            "from": 80.28,
+            "to": 84.22,
+            "location": 2,
+            "content": "Let the storm rage on\n就让狂风怒号"
+        },
+        {
+            "from": 84.35,
+            "to": 87.42,
+            "location": 2,
+            "content": "The cold never bothered me anyway\n严寒再也无法干扰我"
+        },
+        {
+            "from": 91.55,
+            "to": 94.46,
+            "location": 2,
+            "content": "It's funny how some distance\n可笑的是"
+        },
+        {
+            "from": 94.46,
+            "to": 97.92,
+            "location": 2,
+            "content": "Makes everything seem small\n距离使一切变得渺小"
+        },
+        {
+            "from": 97.98,
+            "to": 101.38,
+            "location": 2,
+            "content": "And the fears that once controlled me\n曾经控制我的恐惧"
+        },
+        {
+            "from": 101.38,
+            "to": 105.73,
+            "location": 2,
+            "content": "Can't get to me at all\n再也无法困扰我"
+        },
+        {
+            "from": 105.73,
+            "to": 109.25,
+            "location": 2,
+            "content": "It's time to see what I can do\n是时候展现真正的我了"
+        },
+        {
+            "from": 109.25,
+            "to": 112.9,
+            "location": 2,
+            "content": "To test the limits and break through\n突破我的极限"
+        },
+        {
+            "from": 112.9,
+            "to": 117.12,
+            "location": 2,
+            "content": "No right, no wrong, no rules for me\n没有对错，没有规则再束缚我"
+        },
+        {
+            "from": 117.12,
+            "to": 120.38,
+            "location": 2,
+            "content": "I'm free\n我自由了"
+        },
+        {
+            "from": 120.38,
+            "to": 122.11,
+            "location": 2,
+            "content": "Let it go\n随心而行"
+        },
+        {
+            "from": 122.18,
+            "to": 124.03,
+            "location": 2,
+            "content": "Let it go\n随心而行"
+        },
+        {
+            "from": 124.03,
+            "to": 127.42,
+            "location": 2,
+            "content": "I am one with the wind and sky\n[我驾驭着狂风和天空"
+        },
+        {
+            "from": 127.49,
+            "to": 129.15,
+            "location": 2,
+            "content": "Let it go\n随心而行"
+        },
+        {
+            "from": 129.22,
+            "to": 130.94,
+            "location": 2,
+            "content": "Let it go\n随心而行"
+        },
+        {
+            "from": 131.07,
+            "to": 134.78,
+            "location": 2,
+            "content": "You'll never see me cry\n你将永远看不到我哭"
+        },
+        {
+            "from": 135.13,
+            "to": 138.18,
+            "location": 2,
+            "content": "Here I stand\n我站在这里"
+        },
+        {
+            "from": 138.3,
+            "to": 141.57,
+            "location": 2,
+            "content": "And here I stay\n我将待在这里"
+        },
+        {
+            "from": 141.7,
+            "to": 146.05,
+            "location": 2,
+            "content": "Let the storm rage on\n任那狂风怒号"
+        },
+        {
+            "from": 153.13,
+            "to": 160.13,
+            "location": 2,
+            "content": "My power flurries through the air into the ground\n我的魔力从天而降"
+        },
+        {
+            "from": 160.13,
+            "to": 167.17,
+            "location": 2,
+            "content": "My soul is spiraling in frozen fractals all around\n我的灵魂随着四周的冰片盘旋而上"
+        },
+        {
+            "from": 167.17,
+            "to": 173.89,
+            "location": 2,
+            "content": "And one thought crystallizes like an icy blast\n思想化为结晶 如一阵冰风"
+        },
+        {
+            "from": 174.02,
+            "to": 177.09,
+            "location": 2,
+            "content": "I'm never going back\n我不会再回头"
+        },
+        {
+            "from": 177.09,
+            "to": 181.78,
+            "location": 2,
+            "content": "The past is in the past\n过去已经成为往事"
+        },
+        {
+            "from": 181.78,
+            "to": 183.49,
+            "location": 2,
+            "content": "Let it go\n让它过去吧"
+        },
+        {
+            "from": 183.55,
+            "to": 185.25,
+            "location": 2,
+            "content": "Let it go\n让它过去吧"
+        },
+        {
+            "from": 185.25,
+            "to": 188.8,
+            "location": 2,
+            "content": "And I'll rise like the break of dawn\n我将像旭日从地上升起"
+        },
+        {
+            "from": 188.86,
+            "to": 190.4,
+            "location": 2,
+            "content": "Let it go\n随心而行"
+        },
+        {
+            "from": 190.46,
+            "to": 192.38,
+            "location": 2,
+            "content": "Let it go\n随心而行"
+        },
+        {
+            "from": 192.45,
+            "to": 196.35,
+            "location": 2,
+            "content": "That perfect girl is gone\n那个完美的女孩已经不在了"
+        },
+        {
+            "from": 196.42,
+            "to": 204.78,
+            "location": 2,
+            "content": "Here I stand in the light of day\n我就站在日光之下"
+        },
+        {
+            "from": 204.78,
+            "to": 210.43,
+            "location": 2,
+            "content": "Let the storm rage on\n让风暴怒吼吧"
+        },
+        {
+            "from": 210.43,
+            "to": 214.08,
+            "location": 2,
+            "content": "The cold never bothered me anyway\n严寒无法再侵扰我"
+        }
+    ]
+}
