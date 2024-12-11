@@ -18,6 +18,11 @@ if 0<x<5:
     print('x is between 0 and 5')
 ```
 
+python 中还可以使用 if else 语句进行赋值，等同于三元运算符
+```python
+y= x+10 if x<5 else x+100
+```
+
 ## Go
 ```go
 if 布尔表达式 {

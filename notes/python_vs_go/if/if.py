@@ -11,3 +11,8 @@ for x in range(10):
 for x in range(10):
     if 3<x<5:
         print(x, 'is between 3 and 5')
+
+# python 中还可以使用 if else 语句进行赋值，等同于三元运算符
+for x in range(10):
+    y= x+10 if x<5 else x+100
+    print(y, end=' ')
