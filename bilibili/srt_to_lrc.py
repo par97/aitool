@@ -37,7 +37,10 @@ def srt_file_to_irc(file):
         blocks_out = filter(None, blocks_out)
         str_out = ''.join(blocks_out)
 
-        lrc_file_name=os.path.basename(file).split('.')[0]+".lrc"
+        basename=os.path.basename(file)
+        stem, suffix=os.path.splitext(basename)
+        lrc_file_name = f'{stem}.lrc'
+
         with open(lrc_file_name, 'w') as file_out:
             file_out.write(str_out)
 

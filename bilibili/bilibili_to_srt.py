@@ -36,7 +36,9 @@ def main(file):
     
     srt=bilisub2srt(data)
 
-    srt_file_name=os.path.basename(file).split('.')[0]+".srt"
+    basename=os.path.basename(file)
+    stem, suffix=os.path.splitext(basename)
+    srt_file_name = f'{stem}.srt'
 
     # Write the SRT file
     with open(srt_file_name, 'w') as srt_file:
