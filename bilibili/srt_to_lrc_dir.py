@@ -1,7 +1,5 @@
-'''
-Run it in srt file folder.
-python 3.x
-'''
+#!/usr/bin/env python3
+
 import glob
 import re
 
@@ -37,6 +35,10 @@ def srt_file_to_irc(fname):
         with open(fname.replace('srt', 'lrc'), 'w', encoding='utf8') as file_out:
             file_out.write(str_out)
 
+'''
+Run it in srt file folder.
+python 3.x
+'''
 
 if __name__ == '__main__':
     err_info = []
@@ -48,3 +50,4 @@ if __name__ == '__main__':
             print('\tfile: %s, block num: %s, context: %s' % (file_name, blocks_num, context))
     else:
         print('success')
+

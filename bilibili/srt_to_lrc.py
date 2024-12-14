@@ -1,7 +1,5 @@
-'''
-Run it in srt file folder.
-python 3.x
-'''
+#!/usr/bin/env python3
+
 import re
 import click
 import os
@@ -26,7 +24,7 @@ def srt_block_to_irc(block):
     return '[%s]%s\n[%s]\n' % (ts, co, te)
 
 
-def srt_file_to_irc(file):
+def srt_file_to_lrc(file):
     with open(file, 'r') as file_in:
         str_in = file_in.read()
         blocks_in = str_in.replace('\r\n', '\n').split('\n\n')
@@ -49,13 +47,14 @@ def srt_file_to_irc(file):
 def main(file):
     """tool to convert srt subtitle file to lrc format."""
 
-    srt_file_to_irc(file)
+    srt_file_to_lrc(file)
     if err_info:
         print('success, but some exceptions are ignored:')
         for file_name, blocks_num, context in err_info:
             print('\tfile: %s, block num: %s, context: %s' % (file_name, blocks_num, context))
     else:
         print('success')
+
 
 if __name__ == '__main__':
     main()
